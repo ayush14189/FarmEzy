@@ -122,7 +122,7 @@ const Footer = () => {
 
         {/* Bottom Bar */}
         <div className="pt-8 mt-8 border-t border-green-700 text-center text-green-300 text-sm">
-          <p>© {currentYear} AI Smart Farming. All rights reserved.</p>
+          <p>© {currentYear} FarmEzy. All rights reserved.</p>
           <div className="mt-2 space-x-4">
             <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
             <a href="#" className="hover:text-white transition-colors">Terms of Service</a>

@@ -80,7 +80,7 @@ const Navbar = ({ isAuthenticated, user, logout }) => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5 }}
             >
-              AgriVision
+              FarmEzy
             </motion.span>
           </Link>
 
